@@ -10,8 +10,8 @@
 <hr>
 
 <h1 style align="center"> My Repositories </h1>
-<p> coming soon ... </p>
-
+<ol>
+  <li> <a href="https://github.com/ManideepBangaru/Python-Journey"> Python Worknotes </a>
 <!---
 ManideepBangaru/ManideepBangaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
