@@ -13,9 +13,15 @@
 <h3> Scripting Languages </h3>
 <ol>
   <li> <a href="https://github.com/ManideepBangaru/Python-Journey"> Python </a>
+  <li> <a href="https://github.com/ManideepBangaru/Julia-Journey"> Julia </a>
+  <li> <a href="https://github.com/ManideepBangaru/R-Journey"> R </a>    
   <li> <a href="https://github.com/ManideepBangaru/LearningHTML"> HTML </a>
 </ol>
-
+<hr>
+<h3> Web Development Frameworks </h3>
+<ol>
+  <li> <a href="https://github.com/ManideepBangaru/Django-Journey"> Django </a>
+  <li> <a href="https://github.com/ManideepBangaru/LearningFlask"> Flask </a>
 <hr>
 <h3> Data Science </h3>
 <ol>
