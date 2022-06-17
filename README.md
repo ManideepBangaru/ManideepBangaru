@@ -16,7 +16,6 @@
   <li> <a href="https://github.com/ManideepBangaru/Julia-Journey"> Julia </a>
   <li> <a href="https://github.com/ManideepBangaru/R-Journey"> R </a>    
   <li> <a href="https://github.com/ManideepBangaru/LearningHTML"> HTML </a>
-</ol>
 <hr>
 <h3> Web Development Frameworks </h3>
 <ol>
