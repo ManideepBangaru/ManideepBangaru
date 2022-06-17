@@ -29,6 +29,13 @@
 
 <hr>
 
+<h3> App Development Frameworks </h3>
+<ol>
+  <li> <a href="https://github.com/ManideepBangaru/LearningKivy"> Kivy </a>
+</ol>
+
+<hr>
+
 <h3> Data Science </h3>
 <ol>
   <li> <a href="https://github.com/ManideepBangaru/EDAnMLApply"> EDA </a>
