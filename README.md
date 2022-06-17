@@ -13,6 +13,10 @@
 <ol>
   <li> <a href="https://github.com/ManideepBangaru/Python-Journey"> Python </a>
   <li> <a href="https://github.com/ManideepBangaru/LearningHTML"> HTML </a>
+</ol>
+
+<hr>
+<h3> Data Science </h3>
 <!---
 ManideepBangaru/ManideepBangaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
