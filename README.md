@@ -18,6 +18,8 @@
 
 <hr>
 <h3> Data Science </h3>
+<ol>
+  <li> <a href="https://github.com/ManideepBangaru/EDAnMLApply"> EDA </a>
 <!---
 ManideepBangaru/ManideepBangaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
