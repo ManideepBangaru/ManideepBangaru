@@ -10,6 +10,7 @@
 <hr>
 
 <h1 style align="center"> My Repositories </h1>
+<h3> Scripting Languages </h3>
 <ol>
   <li> <a href="https://github.com/ManideepBangaru/Python-Journey"> Python </a>
   <li> <a href="https://github.com/ManideepBangaru/LearningHTML"> HTML </a>
