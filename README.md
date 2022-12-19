@@ -23,6 +23,7 @@
 
 <h3> Web Development Frameworks </h3>
 <ol>
+  <li> <a href="https://github.com/ManideepBangaru/fastapi"> Fastapi </a>
   <li> <a href="https://github.com/ManideepBangaru/Django-Journey"> Django </a>
   <li> <a href="https://github.com/ManideepBangaru/LearningFlask"> Flask </a>
 </ol>
