@@ -35,6 +35,8 @@
   <li> <a href="https://github.com/ManideepBangaru/tailwind" target="_blank"> tailwind css </a>
 </ol>
 
+<hr>
+
 <h3> App Development Frameworks </h3>
 <ol>
   <li> <a href="https://github.com/ManideepBangaru/LearningKivy"> Kivy </a>
