@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning <a href="https://github.com/ManideepBangaru/LearningHTML" target="_blank"> Frontend development </a>
 - 👀 I’m looking to collaborate on building intelligent applications
 - 📫 How to reach me <a href="https://www.linkedin.com/in/manideepbangaru/"> Linkedin </a>
-- 👨🏻‍💻 My <a href="https://www.rapidaccelerate.com" target="_blank"> www.rapidaccelerate.com </a>
+- 👨🏻‍💻 My Website <a href="https://www.rapidaccelerate.com" target="_blank"> www.rapidaccelerate.com </a>
 
 <hr>
 
