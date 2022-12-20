@@ -16,7 +16,6 @@
   <li> <a href="https://github.com/ManideepBangaru/Python-Journey"> Python 1 </a> | <a href="https://github.com/ManideepBangaru/PythonDevelopmentLL"> Python 2 </a>
   <li> <a href="https://github.com/ManideepBangaru/Julia-Journey"> Julia </a>
   <li> <a href="https://github.com/ManideepBangaru/R-Journey"> R </a>    
-  <li> <a href="https://github.com/ManideepBangaru/LearningHTML"> HTML </a>
 </ol>
 
 <hr>
@@ -29,6 +28,12 @@
 </ol>
 
 <hr>
+
+<h3> Frontend Frameworks </h3>
+<ol>
+  <li> <a href="https://github.com/ManideepBangaru/LearningHTML"> html/css </a>
+  <li> <a href="https://github.com/ManideepBangaru/tailwind" target="_blank"> tailwind css </a>
+</ol>
 
 <h3> App Development Frameworks </h3>
 <ol>
