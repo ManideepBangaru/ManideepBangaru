@@ -23,8 +23,8 @@
 <h3> Web Development Frameworks </h3>
 <ol>
   <li> <a href="https://github.com/ManideepBangaru/fastapi"> Fastapi </a>
-  <li> <a href="https://github.com/ManideepBangaru/Django-Journey"> Django </a>
   <li> <a href="https://github.com/ManideepBangaru/LearningFlask"> Flask </a>
+  <li> <a href="https://github.com/ManideepBangaru/Django-Journey"> Django </a>
 </ol>
 
 <hr>
@@ -48,6 +48,18 @@
 <ol>
   <li> <a href="https://github.com/ManideepBangaru/EDAnMLApply"> EDA </a>
 </ol>
+
+<h3> AIOPS </h3>
+<ol>
+  <li> <a href="https://github.com/ManideepBangaru/dvc"> DVC/CML - CICD pipeline </a>
+</ol>
+
+<h3> Scraping </h3>
+<ol>
+  <li> <a href="https://github.com/ManideepBangaru/scraping"> Scrapy </a>
+</ol>
+
+
 <!---
 ManideepBangaru/ManideepBangaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
