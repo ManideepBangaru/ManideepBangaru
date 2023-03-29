@@ -49,18 +49,22 @@
   <li> <a href="https://github.com/ManideepBangaru/EDAnMLApply"> EDA </a>
 </ol>
 
+<hr>
+
 <h3> AIOPS </h3>
 <ol>
   <li> <a href="https://github.com/ManideepBangaru/dvc"> DVC/CML - CICD pipeline </a>
   <li> <a href="https://github.com/ManideepBangaru/docker"> Docker </a>
 </ol>
 
+<hr>
+
 <h3> Scraping </h3>
 <ol>
   <li> <a href="https://github.com/ManideepBangaru/scraping"> Scrapy </a>    
 </ol>
 
-
+<hr>
 <!---
 ManideepBangaru/ManideepBangaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
