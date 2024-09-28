@@ -2,11 +2,10 @@
 
 - 👋 Hi, I’m @ManideepBangaru
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning <a href="https://github.com/ManideepBangaru/html_css_js" target="_blank"> Frontend development </a>
+- 🌱 I’m currently learning <a href="https://github.com/ManideepBangaru/RAGs" target="_blank"> LLM RAGs </a>
 - 👀 I’m looking to collaborate on building intelligent applications
 - 📫 How to reach me <a href="https://www.linkedin.com/in/manideepbangaru/"> Linkedin </a>
-- 👨🏻‍💻 My Github.io <a href="https://www.rapidaccelerate.com" target="_blank"> https://manideepbangaru.github.io/ </a>
-- 👨🏻‍💻 My Website <a href="https://www.rapidaccelerate.com" target="_blank"> www.rapidaccelerate.com </a>
+- 👨🏻‍💻 My Github.io <a href="https://manideepbangaru.github.io/" target="_blank"> https://manideepbangaru.github.io/ </a>
 
 
 <hr>
