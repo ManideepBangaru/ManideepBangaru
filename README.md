@@ -46,6 +46,7 @@
 
 <h3> Frontend Frameworks </h3>
 <ol>
+  <li> <a href="https://github.com/ManideepBangaru/flutter" target="_blank"> Flutter </a>
   <li> <a href="https://github.com/ManideepBangaru/html_css_js"> html/css/js </a>
   <li> <a href="https://github.com/ManideepBangaru/tailwind" target="_blank"> tailwind css </a>
 </ol>
