@@ -12,6 +12,15 @@
 
 <h1 style align="center"> My Repositories </h1>
 
+<h3> GenAI </h3>
+<ol>
+  <li> <a href="https://github.com/ManideepBangaru/langchain"> LangChain </a>
+  <li> <a href="https://github.com/ManideepBangaru/LangGraph"> LangGraph </a>
+  <li> <a href="https://github.com/ManideepBangaru/agents"> LLM Agents </a>
+</ol>
+
+<hr>
+
 <h3> Scripting Languages </h3>
 <ol>
   <li> <a href="https://github.com/ManideepBangaru/Python-Journey"> Python 1 </a> | <a href="https://github.com/ManideepBangaru/PythonDevelopmentLL"> Python 2 </a>
