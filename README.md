@@ -1,7 +1,7 @@
 <h1 style align="center"> About Me </h1>
 
 - 👋 Hi, I’m @ManideepBangaru
-- 👀 I’m interested in Coding
+- 👀 I’m building my journey in LLMs
 - 🌱 I’m currently learning <a href="https://github.com/ManideepBangaru/RAGs" target="_blank"> LLM RAGs </a>, <a href="https://github.com/ManideepBangaru/LLM-Agents" target="_blank"> LLM Agents </a>, <a href="https://github.com/ManideepBangaru/LangGraph" target="_blank"> LangGraph </a>
 - 👀 I’m looking to collaborate on building intelligent applications
 - 📫 How to reach me <a href="https://www.linkedin.com/in/manideepbangaru/"> Linkedin </a>
