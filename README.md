@@ -72,6 +72,7 @@
 <h3> AIOPS </h3>
 <ol>
   <li> <a href="https://github.com/ManideepBangaru/dvc/tree/ml_use_case"> DVC/CML - CICD pipeline </a>
+  <li> <a href="https://github.com/ManideepBangaru/mlflow"> MLFlow </a>
   <li> <a href="https://github.com/ManideepBangaru/docker"> Docker </a>
 </ol>
 
