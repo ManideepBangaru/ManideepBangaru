@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @ManideepBangaru
 - 👀 I’m building my journey in LLMs
 - 🌱 I’m currently exploring <a href="https://github.com/ManideepBangaru/RAGs" target="_blank"> LLM RAGs </a>, <a href="https://github.com/ManideepBangaru/LLM-Agents" target="_blank"> LLM Agents </a>, <a href="https://github.com/ManideepBangaru/LangGraph" target="_blank"> LangGraph </a>, <a href="https://github.com/ManideepBangaru/LLM-Prompt_Engineering" target="_blank"> Prompt Engineering </a>, <a href="https://github.com/ManideepBangaru/mlflow-genai" target="_blank"> MLFlow-GenAI </a>
-- 👀 I’m looking to collaborate on building intelligent applications
+- 👀 I’m looking to collaborate on building "**REAL** useful solutions"
 - 📫 How to reach me <a href="https://www.linkedin.com/in/manideepbangaru/"> Linkedin </a>
 - 👨🏻‍💻 My Github.io <a href="https://manideepbangaru.github.io/" target="_blank"> https://manideepbangaru.github.io/ </a>
 
