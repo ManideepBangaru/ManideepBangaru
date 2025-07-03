@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @ManideepBangaru
 - 👀 I’m building my journey in LLMs
 - 🌱 I’m currently exploring <a href="https://github.com/ManideepBangaru/LLM-Agents" target="_blank"> LLM Agents </a>
-- 👀 I’m looking to collaborate on building "__**REAL**__ solutions to **REAL** problems"
+- 👀 I’m looking to collaborate on building "**__REAL__** solutions to **REAL** problems"
 - 📫 How to reach me <a href="https://www.linkedin.com/in/manideepbangaru/"> Linkedin </a>
 - 👨🏻‍💻 My website <a href="https://manideepbangaru.github.io/" target="_blank"> https://manideepbangaru.github.io/ </a>
 
