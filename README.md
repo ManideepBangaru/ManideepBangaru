@@ -5,7 +5,7 @@
 - 🌱 I’m currently exploring <a href="https://github.com/ManideepBangaru/LLM-Agents" target="_blank"> LLM Agents </a>
 - 👀 I’m looking to collaborate on building "**_REAL_** solutions to **_REAL_** problems"
 - 📫 How to reach me <a href="https://www.linkedin.com/in/manideepbangaru/"> Linkedin </a>
-- 👨🏻‍💻 My website <a href="www.manideepbangaru.io" target="_blank"> https://manideepbangaru.github.io/ </a>
+- 👨🏻‍💻 My website <a href="www.manideepbangaru.io" target="_blank"> https://manideepbangaru.io/ </a>
 
 <hr>
 
